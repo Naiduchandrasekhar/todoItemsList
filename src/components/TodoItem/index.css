@@ -1,0 +1,20 @@
+/* Write your CSS here */
+
+.listContainer {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.title {
+  margin: 10px;
+  color: #000000;
+  font-family: 'Roboto';
+}
+
+.button {
+  margin: 10px;
+  color: #ff0b37;
+  height: 25px;
+  width: 60px;
+}
